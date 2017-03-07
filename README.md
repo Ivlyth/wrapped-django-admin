@@ -6,7 +6,7 @@ Wrapped django-admin tool for modify project and app template to add encoding, a
 ### Usage.
 use `djadmin` instead of `django-admin`.
 used exactly the same as `django-admin`.
-just add some extra work to command `startproject` and `startapp`.  
+just add some extra work to command `startproject` and `startapp`.
 
 -----------
 
