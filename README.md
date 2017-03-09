@@ -19,3 +19,4 @@ just add some extra work to command `startproject` and `startapp`.
 -----------
 
 Wish you like it. Thanks.
+
