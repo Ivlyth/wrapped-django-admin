@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(
-    name='djadmin-template',
+    name='djadmin_template',
     version='0.1.0',
     url='https://github.com/MythRen/wrapped-django-admin',
     license='None',
